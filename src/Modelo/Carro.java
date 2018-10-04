@@ -52,7 +52,7 @@ public class Carro {
         return chasis;
     }
     
-    public void mover(){
+    /*public void mover(){
         boolean cond1;
         if(this.xref == 0){
             cond1 = true;
@@ -66,5 +66,5 @@ public class Carro {
         }
         this.llantas[0].setX(xref);
         this.llantas[1].setX(xref+10);
-    }
+    }*/
 }
